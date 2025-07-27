@@ -1,0 +1,72 @@
+{
+  "17727886134.session": {
+    "type": "socks5",
+    "host": "198.211.117.173",
+    "port": 1080,
+    "user": "user1080",
+    "pass": "Hello@36"
+  },
+  "17729464323.session": {
+    "type": "socks5",
+    "host": "198.211.117.173",
+    "port": 1081,
+    "user": "user1081",
+    "pass": "Hello@36"
+  },
+  "17743805775.session": {
+    "type": "socks5",
+    "host": "198.211.117.173",
+    "port": 1082,
+    "user": "user1082",
+    "pass": "Hello@36"
+  },
+  "17744812350.session": {
+    "type": "socks5",
+    "host": "198.211.117.173",
+    "port": 1083,
+    "user": "user1083",
+    "pass": "Hello@36"
+  },
+  "17745422675.session": {
+    "type": "socks5",
+    "host": "198.211.117.173",
+    "port": 1084,
+    "user": "user1084",
+    "pass": "Hello@36"
+  },
+  "17745441803.session": {
+    "type": "socks5",
+    "host": "198.211.117.173",
+    "port": 1085,
+    "user": "user1085",
+    "pass": "Hello@36"
+  },
+  "17749611315.session": {
+    "type": "socks5",
+    "host": "198.211.117.173",
+    "port": 1086,
+    "user": "user1086",
+    "pass": "Hello@36"
+  },
+  "17753651631.session": {
+    "type": "socks5",
+    "host": "198.211.117.173",
+    "port": 1087,
+    "user": "user1087",
+    "pass": "Hello@36"
+  },
+  "17754141235.session": {
+    "type": "socks5",
+    "host": "198.211.117.173",
+    "port": 1088,
+    "user": "user1088",
+    "pass": "Hello@36"
+  },
+  "17692924661.session": {
+    "type": "socks5",
+    "host": "198.211.117.173",
+    "port": 1089,
+    "user": "user1089",
+    "pass": "Hello@36"
+  }
+}
